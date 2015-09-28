@@ -4,7 +4,6 @@ using SampleMvcApplication.Controllers;
 using System.Web;
 using System.IO;
 using DataAccess.Utility;
-
 namespace DataAccessTest
 {
     [TestClass]
