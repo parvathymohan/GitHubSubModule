@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Employees> <Employee>
+    <Id>1</Id>
+    <Name>John</Name>
+    <Designation>SSE</Designation>
+    <Address>Address1</Address>
+  </Employee>
+
+  <Employee>
+    <Id>2</Id>
+    <Name>Mary</Name>
+    <Designation>SSE</Designation>
+    <Address>Address2</Address>
+  </Employee>
+
+
+  <Employee>
+    <Id>3</Id>
+    <Name>Sam</Name>
+    <Designation>SE</Designation>
+    <Address>Address3</Address>
+  </Employee>
+</Employees>

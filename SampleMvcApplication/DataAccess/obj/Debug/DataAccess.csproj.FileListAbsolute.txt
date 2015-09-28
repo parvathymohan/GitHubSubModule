@@ -1,0 +1,5 @@
+D:\VSOSampleApplication\SampleMvcApplication\DataAccess\bin\Debug\DataAccess.dll
+D:\VSOSampleApplication\SampleMvcApplication\DataAccess\bin\Debug\DataAccess.pdb
+D:\VSOSampleApplication\SampleMvcApplication\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\VSOSampleApplication\SampleMvcApplication\DataAccess\obj\Debug\DataAccess.dll
+D:\VSOSampleApplication\SampleMvcApplication\DataAccess\obj\Debug\DataAccess.pdb

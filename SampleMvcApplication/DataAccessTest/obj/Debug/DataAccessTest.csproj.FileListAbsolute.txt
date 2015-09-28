@@ -1,0 +1,17 @@
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\DataAccessTest.dll
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\DataAccessTest.pdb
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\DataAccess.dll
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\SampleMvcApplication.dll
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\System.Web.Http.dll
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\System.Web.Http.WebHost.dll
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\System.Net.Http.Formatting.dll
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\Newtonsoft.Json.dll
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\DataAccess.pdb
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\SampleMvcApplication.pdb
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\System.Web.Http.xml
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\System.Web.Http.WebHost.xml
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\System.Net.Http.Formatting.xml
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\bin\Debug\Newtonsoft.Json.xml
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\obj\Debug\DataAccessTest.csprojResolveAssemblyReference.cache
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\obj\Debug\DataAccessTest.dll
+D:\VSOSampleApplication\SampleMvcApplication\DataAccessTest\obj\Debug\DataAccessTest.pdb
