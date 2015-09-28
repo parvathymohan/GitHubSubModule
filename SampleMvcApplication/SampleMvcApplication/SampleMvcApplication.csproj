@@ -106,6 +106,9 @@
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.30506.0\lib\net40\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
+    <Reference Include="WebApplication_GetDate">
+      <HintPath>..\..\SubModule_23092015Repo\WebApplication_SubModule\WebApplication_GetDate\bin\WebApplication_GetDate.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\EmployeeDetailsController.cs" />
