@@ -28,3 +28,6 @@ D:\VSOSampleApplication\SampleMvcApplication\SampleMvcApplication\bin\System.Web
 D:\VSOSampleApplication\SampleMvcApplication\SampleMvcApplication\obj\Debug\SampleMvcApplication.csprojResolveAssemblyReference.cache
 D:\VSOSampleApplication\SampleMvcApplication\SampleMvcApplication\obj\Debug\SampleMvcApplication.dll
 D:\VSOSampleApplication\SampleMvcApplication\SampleMvcApplication\obj\Debug\SampleMvcApplication.pdb
+D:\SubModuleGitHub\GitHubSubModule\SampleMvcApplication\SampleMvcApplication\obj\Debug\SampleMvcApplication.csprojResolveAssemblyReference.cache
+D:\SubModuleGitHub\GitHubSubModule\SampleMvcApplication\SampleMvcApplication\obj\Debug\SampleMvcApplication.dll
+D:\SubModuleGitHub\GitHubSubModule\SampleMvcApplication\SampleMvcApplication\obj\Debug\SampleMvcApplication.pdb
