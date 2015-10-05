@@ -1,4 +1,3 @@
-[submodule "SubModule_23092015Repo"]
-	path = SubModule_23092015Repo
+[submodule "SubModule2909"]
+	path = SubModule2909
 	url = https://github.com/parvathymohan/SubModule2909.git
-
