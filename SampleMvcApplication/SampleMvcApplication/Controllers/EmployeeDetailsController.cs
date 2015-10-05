@@ -7,6 +7,7 @@ using System.Web;
 using System.Web.Mvc;
 using SampleMvcApplication.Models;
 using System.Web.Configuration;
+using WebApplication_GetDate;
 //using WebApplication_GetDate;
 
 namespace SampleMvcApplication.Controllers
@@ -47,8 +48,8 @@ namespace SampleMvcApplication.Controllers
 
         private void getCurrentDate()
         {
-           // DateFile obj = new DateFile();
-           // ViewData["CurrDate"] = obj.get_Date();
+            DateFile obj = new DateFile();
+           ViewData["CurrDate"] = obj.get_Date();
         }
 
         public List<EmployeeDetailsModel> GetDetails(int id,string xmlPath)
