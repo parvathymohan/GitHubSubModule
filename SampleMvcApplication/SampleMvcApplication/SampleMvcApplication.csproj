@@ -106,10 +106,6 @@
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.2.0.30506.0\lib\net40\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
-    <Reference Include="WebApplication_GetDate, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\SubModule2909\WebApplication_SubModule\WebApplication_GetDate\bin\WebApplication_GetDate.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\EmployeeDetailsController.cs" />
@@ -145,6 +141,10 @@
     <Content Include="Views\EmployeeDetails\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\SubModule2909\WebApplication_SubModule\WebApplication_GetDate\WebApplication_GetDate.csproj">
+      <Project>{ba1badf6-e420-408b-b08b-927a23a8f61b}</Project>
+      <Name>WebApplication_GetDate</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DataAccess\DataAccess.csproj">
       <Project>{e59a1e20-1ff3-4ab7-8ef6-1ee093b4093d}</Project>
       <Name>DataAccess</Name>

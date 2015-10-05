@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessTest", "DataAccessTest\DataAccessTest.csproj", "{1BDD9E84-5F49-4740-930B-46A7EF69C88B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_GetDate", "..\SubModule2909\WebApplication_SubModule\WebApplication_GetDate\WebApplication_GetDate.csproj", "{BA1BADF6-E420-408B-B08B-927A23A8F61B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +36,12 @@ Global
 		{1BDD9E84-5F49-4740-930B-46A7EF69C88B}.Prod|Any CPU.Build.0 = Prod|Any CPU
 		{1BDD9E84-5F49-4740-930B-46A7EF69C88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BDD9E84-5F49-4740-930B-46A7EF69C88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1BADF6-E420-408B-B08B-927A23A8F61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1BADF6-E420-408B-B08B-927A23A8F61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1BADF6-E420-408B-B08B-927A23A8F61B}.Prod|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1BADF6-E420-408B-B08B-927A23A8F61B}.Prod|Any CPU.Build.0 = Release|Any CPU
+		{BA1BADF6-E420-408B-B08B-927A23A8F61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1BADF6-E420-408B-B08B-927A23A8F61B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
